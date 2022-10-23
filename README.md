@@ -1,5 +1,5 @@
 # ActivitiesAndFragments
-A android project I created to understand the basics of creating an android app
+An android project I created to understand the basics of creating an android app
 
 # What I learned
 * The general structure of how variables and Views are declared, initialized and referenced
